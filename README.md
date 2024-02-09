@@ -8,13 +8,6 @@ This project is a professional profile card that showcases your information and 
 
 You can view a live demo of the professional profile card [here](https://example.com).
 
-## Features
-
-- Clean and modern design
-- Responsive layout for different screen sizes
-- Customizable personal information
-- Easy to integrate into existing projects
-
 ## Installation
 
 To use the professional profile card in your project, follow these steps:
