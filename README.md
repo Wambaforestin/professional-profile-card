@@ -1,4 +1,4 @@
-# Professional Profile
+# Professional Profile Card
 
 <img src="images/1.jpg" alt="Image of a professional profile card" width="500" height="300">
 
